@@ -1,3 +1,3 @@
-![Screenshot from 2023-06-11 15-40-44](https://github.com/Shruti78/across_the_globe/assets/104200088/a5b2ba08-55f7-4e16-8e44-7eb1c2eaaaff)
-![Screenshot from 2023-06-11 15-48-12](https://github.com/Shruti78/across_the_globe/assets/104200088/346fc2a7-d005-4a0e-a27d-bff187e6b5e7)
-                            ![Screenshot from 2023-06-11 15-47-56](https://github.com/Shruti78/across_the_globe/assets/104200088/9b308f2a-3949-4ac4-a662-2cd4098abe54)
+![Screenshot from 2023-06-12 01-18-29](https://github.com/Shruti78/across_the_globe/assets/104200088/f5db18ed-5885-48b8-8afd-05d8fbd4b815)
+![Screenshot from 2023-06-12 01-17-55](https://github.com/Shruti78/across_the_globe/assets/104200088/43ca7e42-bff1-49a7-95e1-3cffe6a289a3)
+![Screenshot from 2023-06-12 01-19-24](https://github.com/Shruti78/across_the_globe/assets/104200088/dacf3a86-574c-4d2f-8348-4f52d580125e)
