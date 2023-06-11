@@ -81,7 +81,7 @@ class HomePage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(8),
                       ),
                       child: ListTile(
-                        leading: Icon(Icons.book, color: Color(0xff598BED)),
+                       leading: Image.asset('assets/Book-mark.png'),
                         title: Text(
                           'Programs',
                           style:
@@ -100,7 +100,7 @@ class HomePage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(8),
                       ),
                       child: ListTile(
-                        leading: Icon(Icons.book, color: Color(0xff598BED)),
+                       leading: Image.asset('assets/help-circle.png'),
                         title: Text(
                           'Get help',
                           style:
@@ -124,7 +124,7 @@ class HomePage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(8),
                       ),
                       child: ListTile(
-                        leading: Icon(Icons.book, color: Color(0xff598BED)),
+                       leading: Image.asset('assets/Book-open.png'),
                         title: Text(
                           'Learn',
                           style:
@@ -143,7 +143,7 @@ class HomePage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(8),
                       ),
                       child: ListTile(
-                        leading: Icon(Icons.book, color: Color(0xff598BED)),
+                         leading: Image.asset('assets/trello.png'),
                         title: Text(
                           'DD Tracker',
                           style:
