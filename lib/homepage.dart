@@ -618,7 +618,7 @@ class HomePage extends StatelessWidget {
                 label: 'Home',
               ),
               BottomNavigationBarItem(
-                icon: Image.asset('assets/Book-open.png'),
+                  icon: Image.asset('assets/Book.png'),
                 label: 'learn',
               ),
               BottomNavigationBarItem(
