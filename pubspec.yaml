@@ -68,6 +68,10 @@ flutter:
     - assets/Profile.png
     - assets/Icon.png
     - assets/Comment.png
+    - assets/Book-mark.png
+    - assets/trello.png
+    - assets/help-circle.png
+    - assets/Book.png
     
   
 
